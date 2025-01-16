@@ -1,7 +1,7 @@
 <!doctype html> 
  <html lang="en"> 
  <head> 
-     <title>Online CC GEN OWNER Stone Force</title> 
+     <title>CC GENERATOR</title> 
      <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
       <meta name="description" content="Free online credit card generator to generate all countries credit card with high generate speed."/> 
       <meta name="robots" content="index,follow" /> 
